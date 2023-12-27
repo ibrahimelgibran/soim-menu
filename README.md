@@ -8,7 +8,7 @@ lagi? Jangan lewatkan! Temukan tempat Soto Ijo Monjali terdekat
 sekarang. Pastikan cek lokasinya di Google Maps untuk panduan
 tepat.
 
-\*Note: aplikasi ini dibuat dalam rangka pembelajaran dan Tugas
+\*Note: aplikasi ini dibuat dalam rangka pembelajaran dan tugas
 
 Demo Aplikasi: [Soto Ijo Monjali](https://menusoim.vercel.app/index.html)
 
