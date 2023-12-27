@@ -1,4 +1,4 @@
-# Warteg Bemo
+# Menu Soto Ijo Monjali
 
 Soto Ijo Monjali berdiri sejak 17 Mei 2009 dan kini memiliki 5 cabang
 yang tersebar di wilayah Daerah Istimewa Yogyakarta.
