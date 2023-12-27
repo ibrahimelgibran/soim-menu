@@ -19,3 +19,7 @@ Demo Aplikasi: [Soto Ijo Monjali](https://menusoim.vercel.app/index.html)
 ### Preview 2
 
 <img src="./assets/images/demo2.png">
+
+### Preview 3
+
+<img src="./assets/images/demo3.png">
