@@ -256,14 +256,15 @@ function generateData() {
     divAction.classList.add("action");
 
     let spanData = document.createElement("span");
-    spanData.innerHTML = `Rp ${toRupiah(harga)},00 | Stok : ${stok}`;
+    // spanData.innerHTML = `Rp ${toRupiah(harga)},00 | Stok : ${stok}`;
+    spanData.innerHTML = `Rp ${toRupiah(harga)},00`;
     divAction.appendChild(spanData);
 
-    let buttonAdd = document.createElement("button");
-    buttonAdd.innerHTML = '<i class="fas fa-cart-plus"></i> Pesan';
-    buttonAdd.setAttribute("value", i);
-    buttonAdd.setAttribute("onclick", "addtoCart(this.value)");
-    divAction.appendChild(buttonAdd);
+    // let buttonAdd = document.createElement("button");
+    // buttonAdd.innerHTML = '<i class="fas fa-cart-plus"></i> Pesan';
+    // buttonAdd.setAttribute("value", i);
+    // buttonAdd.setAttribute("onclick", "addtoCart(this.value)");
+    // divAction.appendChild(buttonAdd);
     divCard.appendChild(divAction);
     //console.log(divCard);
     foodList.appendChild(divCard);
